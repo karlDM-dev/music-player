@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github.io/music-player/static/css/main.855ebca4.chunk.css",
-    "main.js": "/github.io/music-player/static/js/main.0a08780e.chunk.js",
-    "main.js.map": "/github.io/music-player/static/js/main.0a08780e.chunk.js.map",
-    "runtime-main.js": "/github.io/music-player/static/js/runtime-main.045bf8b3.js",
-    "runtime-main.js.map": "/github.io/music-player/static/js/runtime-main.045bf8b3.js.map",
-    "static/js/2.01d2251a.chunk.js": "/github.io/music-player/static/js/2.01d2251a.chunk.js",
-    "static/js/2.01d2251a.chunk.js.map": "/github.io/music-player/static/js/2.01d2251a.chunk.js.map",
-    "static/js/3.ec8b82f5.chunk.js": "/github.io/music-player/static/js/3.ec8b82f5.chunk.js",
-    "static/js/3.ec8b82f5.chunk.js.map": "/github.io/music-player/static/js/3.ec8b82f5.chunk.js.map",
-    "index.html": "/github.io/music-player/index.html",
-    "static/css/main.855ebca4.chunk.css.map": "/github.io/music-player/static/css/main.855ebca4.chunk.css.map",
-    "static/js/2.01d2251a.chunk.js.LICENSE.txt": "/github.io/music-player/static/js/2.01d2251a.chunk.js.LICENSE.txt",
-    "static/media/app.scss": "/github.io/music-player/static/media/wood-bg.9791deba.jpg"
+    "main.css": "/music-player/static/css/main.77ec038f.chunk.css",
+    "main.js": "/music-player/static/js/main.0a08780e.chunk.js",
+    "main.js.map": "/music-player/static/js/main.0a08780e.chunk.js.map",
+    "runtime-main.js": "/music-player/static/js/runtime-main.afedf1aa.js",
+    "runtime-main.js.map": "/music-player/static/js/runtime-main.afedf1aa.js.map",
+    "static/js/2.01d2251a.chunk.js": "/music-player/static/js/2.01d2251a.chunk.js",
+    "static/js/2.01d2251a.chunk.js.map": "/music-player/static/js/2.01d2251a.chunk.js.map",
+    "static/js/3.ec8b82f5.chunk.js": "/music-player/static/js/3.ec8b82f5.chunk.js",
+    "static/js/3.ec8b82f5.chunk.js.map": "/music-player/static/js/3.ec8b82f5.chunk.js.map",
+    "index.html": "/music-player/index.html",
+    "static/css/main.77ec038f.chunk.css.map": "/music-player/static/css/main.77ec038f.chunk.css.map",
+    "static/js/2.01d2251a.chunk.js.LICENSE.txt": "/music-player/static/js/2.01d2251a.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/music-player/static/media/wood-bg.9791deba.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.045bf8b3.js",
+    "static/js/runtime-main.afedf1aa.js",
     "static/js/2.01d2251a.chunk.js",
-    "static/css/main.855ebca4.chunk.css",
+    "static/css/main.77ec038f.chunk.css",
     "static/js/main.0a08780e.chunk.js"
   ]
 }
